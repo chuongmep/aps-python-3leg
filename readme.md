@@ -4,4 +4,4 @@ Requirements:
 - Python 3.6+
 
 
-![](docs/2024-05-01_12.13.56.gif)
+![](docs/iShot_2024-05-01_12.21.43.gif)
